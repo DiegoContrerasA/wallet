@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <defs>
+    <clipPath id="stack"><rect x="132" y="196" width="760" height="632" rx="72"/></clipPath>
+    <linearGradient id="pocket" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f1f1f4"/><stop offset="1" stop-color="#d4d4da"/>
+    </linearGradient>
+  </defs>
+  <rect width="1024" height="1024" fill="#000"/>
+  <g clip-path="url(#stack)">
+    <rect x="132" y="196" width="760" height="400" rx="72" fill="#2f9df4"/>
+    <rect x="132" y="298" width="760" height="400" rx="72" fill="#fdc331"/>
+    <rect x="132" y="400" width="760" height="400" rx="72" fill="#41c75f"/>
+    <rect x="132" y="502" width="760" height="400" rx="72" fill="#f4574e"/>
+    <path d="M132 604H330C404 604 410 690 512 690C614 690 620 604 694 604H892V828H132Z" fill="url(#pocket)"/>
+  </g>
+</svg>
