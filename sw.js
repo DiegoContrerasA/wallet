@@ -1,5 +1,5 @@
 // Cambia la versión al publicar cambios para refrescar la caché
-const CACHE = 'wallet-v3';
+const CACHE = 'wallet-v4';
 const ASSETS = [
   './',
   'index.html',
